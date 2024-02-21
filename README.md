@@ -1,4 +1,4 @@
 # spmdemo
 This is my first Git Repository
 <br>
-Author - Durga.
+Author - Durga Thotadh.
